@@ -55,5 +55,5 @@ NOTE: Some of the engines return statistical data in the
 
 ## Comparing the Algorithms
 - As a general rule, all the ScoreEngine() bots almost always beat the DummyEngine() [as it would be concerning if they don't].  
-o The minimax algorithm takes much longer computationally to find moves that generally lead to a success in most of the games played against DummyEngine, and about 80% if the games played against the basic ScoreEngine().  
+- The minimax algorithm takes much longer computationally to find moves that generally lead to a success in most of the games played against DummyEngine, and about 80% if the games played against the basic ScoreEngine().  
 - Between the basic and the improved_space engines, there isn't a big computation-time gap, but there is no clear winner between them.  
