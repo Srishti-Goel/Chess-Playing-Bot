@@ -1,8 +1,9 @@
-# Chess-Playing-Bot
+# Chess-Playing Bot
+![alt text](https://github.com/Srishti-Goel/Chess-Playing-Bot/blob/main/Chess_bot/Chess-Player.jpg)  
+## What is this?
 This is the Chess-Playing bots part of the project.  
 The Front-End interface can be found in a separate repository listed here: https://github.com/Srishti-Goel/ChessInterface.  
-However, due to the current lack of connection to the Front-End, a separate, Command-Line based interface has also been created to test our algorithms.  
-![alt text](https://github.com/Srishti-Goel/Chess-Playing-Bot/blob/main/Chess_bot/Chess-Player.jpg)
+Due to the current lack of connection to the Front-End, a separate, Command-Line based interface has also been created to test our algorithms.  
 
 ## How to Play
 The official game playes by running the file "util.ipynb".  
